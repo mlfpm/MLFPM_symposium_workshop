@@ -7,6 +7,8 @@ The session is divided in two parts:
 1) Medical imaging classification and explainability
 2) Network-based genome-wide association studies - GWAS
 
+Slides presented during the session available [here](https://docs.google.com/presentation/d/1JYD9hWlIsq7y6tI9Gd1snMYqyxikeWLgg127aTz_RgI/edit?usp=sharing)
+
 ---
 
 ### Part 1 setup
