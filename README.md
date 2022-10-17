@@ -29,6 +29,12 @@ the URL of this repository (https://github.com/mlfpm/MLFPM_symposium_workshop) u
 
 ### Part 2 setup
 
+In this part, the goal is to follow the standard steps of a GWAS analysis. We'll also explore what extra insights we can
+get applying graph theory in this framework.
+
+To execute it, go to [RStudio cloud](https://rstudio.cloud) (you can log in with your gmail credentials), 
+and click on "New Project" -> "New Project from Git Repository". When prompted, paste the lint to this repo.
+
 ---
 
  This project has received funding from the European Union's Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No.  813533
