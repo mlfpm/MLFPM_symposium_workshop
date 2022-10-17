@@ -22,7 +22,8 @@ in the top-right corner of the screen). Once there, click on "Create new API tok
 "kaggle.json". When opening it, you should see your user name and an automatically generated password. Don't lose it; we'll
 need it for the next step!
 
-Last but not least, let's load the project in google colab. [Still working on the best way to do this. Updates soon!]
+Last but not least, let's load the project in the cloud. Go to [Google colab](https://colab.research.google.com/), and paste
+the URL of this repository (https://github.com/mlfpm/MLFPM_symposium_workshop) under 'GitHub' on the pop-up menu. A notebook should immediately open, and we're good to go!
 
 ---
 
