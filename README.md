@@ -34,6 +34,7 @@ get applying graph theory in this framework.
 
 To execute it, go to [RStudio cloud](https://rstudio.cloud) (you can log in with your gmail credentials), 
 and click on "New Project" -> "New Project from Git Repository". When prompted, paste the lint to this repo.
+After some loading time, we're good to go!
 
 ---
 
